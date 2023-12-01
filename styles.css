@@ -59,6 +59,7 @@
 .contact {
     width: 60%; 
     padding: 45px;
+    padding-top:100px;
     border-radius: 0; 
     position: absolute;
     left: 50%;
